@@ -1,5 +1,5 @@
 <template>
-    <NuxtLink to="advertise">
+    <NuxtLink to="/advertise">
         <NuxtImg src="/images/advertise2.png" />      
     </NuxtLink>
 </template>
