@@ -2,10 +2,10 @@
 
 ## Online Edition
 
-Our online edition comes to\nyou in full colour, emailed\ndirectly to your inbox.</strong>",
-        "For a limited time you can access the <em>full</em> online edition of Waranga News <a href=\"https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/09/wnews20210902.pdf\">here</a>.",
-        "<em>$25 yearly subscription\nGet yours now!</em>",
-        "Email <a title=\"wnews@iinet.net.au\" href=\"&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x77;&#x6E;&#x65;&#x77;&#x73;&#x40;&#x69;&#x69;&#x6E;&#x65;&#x74;&#x2E;&#x6E;&#x65;&#x74;&#x2E;&#x61;&#x75;\">wnews@iinet.net.au</a>
+Our online edition comes to\nyou in full colour, emailed\ndirectly to your inbox.",
+"For a limited time you can access the _full_ online edition of Waranga News \<a href="[https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/09/wnews20210902.pdf\\">here](https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2021/09/wnews20210902.pdf%5C%22%3Ehere).",
+"_$25 yearly subscription\nGet yours now!_",
+"Email \<a title="<wnews@iinet.net.au>" href="mailto:<wnews@iinet.net.au>"><wnews@iinet.net.au>
 
 ## Print Edition
 
