@@ -1,5 +1,5 @@
 <template>
-  <div class="wp-layout holygrail">
+  <div class="wp-layout holygrail h-screen">
     <header>
       <Masthead/>
     </header>
@@ -18,5 +18,5 @@
   </div>
 </template>
 <script setup>
-import '~/assets/layout.css'
+import '~/assets/css/layout.css'
 </script>
