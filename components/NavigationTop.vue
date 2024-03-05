@@ -4,29 +4,30 @@
 <!-- Container to give Navbar a fixed width -->
     <div class="flex mx-auto items-center justify-between flex-wrap p-4 max-w-7xl">
       <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="flex items-center no-underline flex-row" :to="wildlife">
+         <NuxtLink class="flex items-center no-underline flex-row" to="/wildlife">
             All About Wildlife
         </NuxtLink>
       </span>
 
       <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="flex items-center no-underline flex-row" :to="history">
+         <NuxtLink class="flex items-center no-underline flex-row" to="/history">
             50 Years Ago
         </NuxtLink>
       </span>
 
       <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="flex items-center no-underline flex-row" :to="firstpeoples">
+         <NuxtLink class="flex items-center no-underline flex-row" to="/firstpeoples">
             Waranga Dreaming
         </NuxtLink>
       </span>
 
       <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="flex items-center no-underline flex-row" :to="about">
+         <NuxtLink class="flex items-center no-underline flex-row" to="/about">
             Celestial Connections
         </NuxtLink>
       </span>
     </div>
+    <Weather></Weather>
 </nav>
 </template>
 
