@@ -17,7 +17,7 @@
             >
               <nuxt-link :href="article._path">
                 <p class="text-xl text-gray-900">{{ article.title }}</p>
-                <p class="mt-3 text-gray-500"><NuxtImg :src="`${article.image}`"></NuxtImg></p>
+                <p class="mt-3 text-gray-500"><NuxtImg provider="cloudflare" :src="`${article.image}`"></NuxtImg></p>
               </nuxt-link>
               <div class="mt-6">
                 <a
