@@ -1,3 +1,7 @@
+---
+image: /gallery/2024/03/wnews20240328-000.jpg
+---
+
 # Easter is Rushworth’s time to shine
 
 A sunny Easter weekend is coming up and Rushworth’s famous festival is back to a two day event!
@@ -13,5 +17,7 @@ A highlight this year will be the return of the wood auction, now raising funds 
 The popular Dog Show at 10am is back again so bring along your pooch to try for a prize in one of the variety of competition categories. If creativity is your strong point you will have a chance to win a ‘best Easter bonnet’ prize at 12pm – although, be warned, it is very competitive!
 
 To top it all off the traditional Parade will commence at 1 pm., with the wonderful Moora Horses in the lead, followed by the Wizard and an array of vintage steam machinery, trucks and cars.
+
+![The Wizard](https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg)
 
 Timetables and location maps will be visible in most shop windows. Please refer to the Public Notices for details of High Street road closure for the day.
