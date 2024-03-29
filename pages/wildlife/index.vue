@@ -1,4 +1,5 @@
 <template>
+  <NuxtImg src="/images/all-about-wildlife.jpg"/>
   <h1>All about wildlife</h1>
   <p>
     Kirsty Ramadan from BoHollow Wildlife
