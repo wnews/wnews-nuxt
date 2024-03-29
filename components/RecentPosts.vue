@@ -9,7 +9,7 @@
           </h2>
         </div>
         <div class="mt-12 grid gap-16 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
-          <ContentList :path="`${$route.fullPath}`" v-slot="{ list }">
+          <ContentList :path="`${basePath}`" v-slot="{ list }">
             <div
                 v-for="article in list"
                 :key="article._path"
@@ -36,3 +36,12 @@
       </div>
     </main>
   </template>
+<script setup>
+defineProps({
+  basePath: {
+    default() {
+      return '/articles'
+    }
+  }
+})
+</script>
