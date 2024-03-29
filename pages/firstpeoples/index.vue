@@ -1,3 +1,3 @@
 <template>
-  <RecentPosts/>
+  <RecentPosts :basePath="`${$route.fullPath}`"/>
 </template>
