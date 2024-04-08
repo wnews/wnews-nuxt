@@ -1,6 +1,6 @@
 <template>
   <div class="wp-layout holygrail h-screen">
-    <header>
+    <header style="display: flex; justify-content: center;">
       <Masthead/>
     </header>
     <nav>

@@ -54,11 +54,20 @@
 
     h1 {
         @apply text-4xl;
+        @apply font-roboto;
     }
     h2 {
         @apply text-2xl;
+        @apply font-roboto;
     }
     h3 {
         @apply text-xl;
+        @apply font-roboto;
+    }
+
+    main {
+        @apply text-xl;
+        @apply font-crimson-pro;
+        @apply md:p-5 p-2;
     }
 }

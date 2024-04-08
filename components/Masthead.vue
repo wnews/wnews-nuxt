@@ -1,3 +1,3 @@
 <template>
-    <NuxtImg class="w-full p-3" src="/images/wnews-masthead2.png" alt="Waranga News masthead image"/>
+    <NuxtImg sizes="100vw md:1024px" src="/images/wnews-masthead2.png" alt="Waranga News masthead image"/>
 </template>
