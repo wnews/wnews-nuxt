@@ -7,7 +7,9 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				sans: ['uncut-sans', ...defaultTheme.fontFamily.sans],
-				serif: ['sprat', ...defaultTheme.fontFamily.serif]
+				serif: ['sprat', ...defaultTheme.fontFamily.serif],
+				roboto: ['Roboto', 'sans-serif'],
+				'crimson-pro': ['"Crimson Pro"', 'serif'],
 			}
 		}
 	},
