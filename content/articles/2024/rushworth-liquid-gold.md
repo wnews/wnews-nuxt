@@ -5,7 +5,9 @@ image: /gallery/2024/03/wnews20240328-015.jpg
 # Rushworth Eucalyptus oil - our liquid GOLD!
 
 How many new residents to the area know that Rushworth has its very own eucalyptus distillery providing eucalyptus oil, ‘liquid gold’, to the area and beyond. The Rushworth Eucalyptus Distillery was established in 1880s. Situated off Whroo Road, the distillery has been operating for over 110 years.
+
 <!--more-->
+
 ### In the beginning
 
 After her husband died, Ann Eliza Jones brought her family of seven children, (Alec Jones, Gert Schumann Jones, George Jones, Arthur Jones, Thomas Jones, Winifred Locke Jones and Skeeles Jones) to Rushworth from Inglewood after purchasing the running eucalyptus distillery in 1909 from Mr Phillip Jones, who was no relation.
