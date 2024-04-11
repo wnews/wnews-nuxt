@@ -5,7 +5,9 @@ image: /gallery/2024/03/wnews20240328-000.jpg
 # Easter is Rushworth’s time to shine
 
 A sunny Easter weekend is coming up and Rushworth’s famous festival is back to a two day event!
+
 <!--more-->
+
 On Saturday morning, from 8.30 am, the fun begins. The market will be packed with stalls offering produce, plants and all manner of goods from throughout the region.
 
 There will be added attractions throughout the morning to entertain all ages – a big red dragon, an animal farm, mini golf, face painting and heaps of other fun for the kids, including, of course, the ever popular Easter egg hunt at the Community House Garden at 9am.
