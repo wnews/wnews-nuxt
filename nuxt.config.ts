@@ -30,5 +30,10 @@ export default defineNuxtConfig({
     exclude: [
       '/advertisements',
     ],
+  },
+  nitro: {
+    prerender: {
+      routes: ['/sitemap.xml']
+    }
   }
 })
