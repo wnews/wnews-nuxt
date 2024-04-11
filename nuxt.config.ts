@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content', "@nuxt/image", '@nuxtjs/tailwindcss', '@nuxtjs/google-fonts'],
+  modules: ['@nuxt/content', "@nuxt/image", '@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@nuxtjs/sitemap'],
   image: {
     domains: ['media.wnews.org.au'],
     cloudflare: {
@@ -23,5 +23,12 @@ export default defineNuxtConfig({
         ital: '200..700',
       }
     }
+  },
+  sitemap: {
+    hostname: 'https://www.wnews.org.au',
+    gzip: true,
+    exclude: [
+      '/advertisements',
+    ],
   }
 })
