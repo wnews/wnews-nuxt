@@ -1,6 +1,6 @@
 <template>
   <main>
-    <ContentDoc class="p-5 space-y-4" path="/past-issues/2024/2024-03-28"/>
+    <ContentDoc class="p-5 space-y-4" path="/past-issues/2024/2024-04-11"/>
   </main>
   <RecentPosts/>
 </template>
