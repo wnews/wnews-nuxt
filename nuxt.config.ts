@@ -24,8 +24,11 @@ export default defineNuxtConfig({
       }
     }
   },
+  site: {
+    url: 'https://www.wnews.org.au'
+  },
   sitemap: {
-    hostname: 'https://www.wnews.org.au',
+    // hostname: 'https://www.wnews.org.au',
     gzip: true,
     exclude: [
       '/advertisements',
