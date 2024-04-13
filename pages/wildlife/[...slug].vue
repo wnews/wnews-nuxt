@@ -10,4 +10,5 @@ very familiar wildlife neighbours.
   </p> -->
     <ContentDoc class="p-5 space-y-4"/>
   </main>
+  <NuxtImg src="/images/all-about-wildlife-footer.png"/>
 </template>

@@ -10,4 +10,5 @@ very familiar wildlife neighbours.
   </p> -->
 </main>
   <RecentPosts :basePath="`${$route.fullPath}`"/>
+  <NuxtImg src="/images/all-about-wildlife-footer.png"/>
 </template>
