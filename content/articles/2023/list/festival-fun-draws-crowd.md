@@ -1,0 +1,8 @@
+---
+image: /gallery/2023/04/wnews20230420-004.jpg
+---
+# Festival fun draws crowd at Easter
+
+Rushworth once again came to life over the Easter long weekend, with thousands of people coming along to join in the fun of the famous Rushworth Easter Heritage Festival.
+
+<p>     The large variety of activities and entertainment ensured there was     something for all ages and interests. For the children there were cute baby     animals, a colouring competition and the always popular Community House     Easter egg hunt. </p> <p>     For the proud puppy owners there was the chance to show off their pets and     enjoy (on their pooch’s behalf) the admiration and compliments of the     audience, while the more creative amongst us, both young and old, displayed     their talents in the Easter bonnet parade. And, of course, for the     shopaholics there was the Market, packed with stalls displaying a huge     variety of wares on offer, while the Art Depot’s Pop-Up shop presented some     of the best of local talent for purchase. Suitable fare is an essential     element of any festival event, and local hospitality venues, clubs and     visiting vendors all did a sterling job helping to satisfy the munchies and     quench the thirst of the large crowd. Coffee queues were especially long     (G&O are still probably in recovery mode!) </p> <p>     The morning entertainment concluded with the popular Easter Heritage     Festival Parade, where all kinds of lovingly restored vehicles are proudly     shown off by proud owners. A fitting (if noisy) climax to a great community     event. </p> 
