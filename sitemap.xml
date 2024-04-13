@@ -45,6 +45,9 @@
     <url>
         <loc>https://www.wnews.org.au/gardening</loc>
         <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-070.jpg</image:loc>
         </image:image>
         <image:image>
@@ -54,7 +57,7 @@
     <url>
         <loc>https://www.wnews.org.au/history</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago.png</image:loc>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-059.png</image:loc>
@@ -65,6 +68,9 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/immigration</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
@@ -96,6 +102,9 @@
     <url>
         <loc>https://www.wnews.org.au/recipes</loc>
         <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-069.jpg</image:loc>
         </image:image>
         <image:image>
@@ -108,13 +117,7 @@
     <url>
         <loc>https://www.wnews.org.au/wildlife</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-062.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-061.jpg</image:loc>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -171,6 +174,9 @@
     <url>
         <loc>https://www.wnews.org.au/immigration/2023</loc>
         <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
     </url>
@@ -225,23 +231,38 @@
     <url>
         <loc>https://www.wnews.org.au/gardening/2024/2024-03-28</loc>
         <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-070.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2024/2024-04-11</loc>
         <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-067.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-03-28</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-04-11</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/immigration/2023/early-arrival-and-success</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-02-01</loc>
@@ -297,11 +318,17 @@
     <url>
         <loc>https://www.wnews.org.au/recipes/2024/2024-03-28</loc>
         <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-069.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/recipes/2024/2024-04-11</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-065.jpg</image:loc>
         </image:image>
@@ -309,11 +336,17 @@
     <url>
         <loc>https://www.wnews.org.au/wildlife/2024/2024-03-28</loc>
         <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-062.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2024/2024-04-11</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-061.jpg</image:loc>
         </image:image>
@@ -331,4 +364,4 @@
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/women-and-social-change</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-13T03:24:28.194Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-13T03:53:55.539Z -->
