@@ -1,3 +1,6 @@
+---
+image: /gallery/2024/04/wnews20240411-006.jpg
+---
 # Fun Of The Fair
 
 While the adults enjoyed their retail therapy at the Easter Festival, there was plenty for the children to do too. After a great turn-out for the egg hunt at the Community House, the competitions attracted lots of entries and onlookers.

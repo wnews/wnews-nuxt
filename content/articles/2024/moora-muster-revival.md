@@ -1,3 +1,6 @@
+---
+image: /gallery/2024/04/wnews20240411-008.jpg
+---
 # Moora Muster Revival
 
 On Easter Sunday we welcomed back the Moora Working Draught Horse Muster at Moora Recreation Reserve.
