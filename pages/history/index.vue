@@ -5,5 +5,5 @@
     Looking through the pages of past ‘Rushworth Chronicles’
     .....compiled by former district resident Alan McLean
   </p> -->
-  <RecentPosts :basePath="`${$route.fullPath}/2024`"/>
+  <RecentPosts :basePath="`${$route.fullPath + '/2024'}`"/>
 </template>
