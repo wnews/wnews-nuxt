@@ -1,0 +1,1 @@
+import{_ as e}from"./CAWZiGij.js";import{l as r,E as n,P as s,b as a}from"./CryidA2g.js";import"./DyC046-d.js";import"./C6-7u_ji.js";import"./B24J_45w.js";import"./DxnnEI6h.js";import"./Yt4a6u7q.js";const c={};function _(o,m){const t=e;return a(),n(t,{basePath:`${(o._.provides[s]||o.$route).fullPath}`},null,8,["basePath"])}const b=r(c,[["render",_]]);export{b as default};
