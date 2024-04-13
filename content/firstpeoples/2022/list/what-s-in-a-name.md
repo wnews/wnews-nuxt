@@ -1,6 +1,8 @@
 # What’s in a name?
 
-"With the arrival of colonists, it was assumed that the local Aboriginal people would change their names to European sounding names.  If you think about that for a while, it is an astonishingly arrogant expectation.  The local Aboriginal people had lived in the Waranga area continuously for over 40,000 years.  Over that time there would have been much evolution in the names that were current at the time of colonisation.  However, that legacy was largely lost in a very short space of time.",
+"With the arrival of colonists, it was assumed that the local Aboriginal people would change their names to European sounding names.  If you think about that for a while, it is an astonishingly arrogant expectation.  The local Aboriginal people had lived in the Waranga area continuously for over 40,000 years.  Over that time there would have been much evolution in the names that were current at the time of colonisation.  However, that legacy was largely lost in a very short space of time."
+<!--more-->
+
 "There is only a handful of original names of Ngurai-illum Wurrung people of which we have much awareness.  The most obvious man’s name was Tattambo, who was buried in the Murchison cemetery.  Despite retaining his tribal name, he was still labelled with the first name of Charles.  We do not know his first wife’s name and his second wife was only known by the European name of Mary.  Similarly, the people of Murchison knew Tattambo’s sister only as Sarah.  We only know the children of Tattambo and Mary by the names assigned to them by the colonists.",
 "Like Tattambo, William Barak, the famous Aboriginal activist, retained part of his original name but took on the first name of William.  His mother, who was a Ngurai-illum Wurrung woman, appears to have only been known by her birth name, Tooteerie.  She was from Tattambo’s generation, which pre-dated colonisation.",
 "Less well-known names",

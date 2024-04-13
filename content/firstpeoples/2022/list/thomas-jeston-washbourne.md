@@ -4,6 +4,7 @@ image: https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/0
 # Thomas Jeston Washbourne
 
 "There are very few photographs of Ngurai-illum Wurrung people taken during the colonial period.  Of these, only a handful appear to have been taken on Ngurai-illum Wurrung country.  Fortunately, there are some photos of Jenny and Lizzie Hylett (mentioned in the previous story) and Jenny’s parents, “King Charles” Tattambo and “Queen” Mary.  These were taken by a travelling photographer of the time, Thomas Jeston Washbourne.\n",
+<!--more-->
 
 ![Jenny and Lizzie Hylett](https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png)
 
