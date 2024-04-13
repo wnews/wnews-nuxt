@@ -36,10 +36,13 @@
     <url>
         <loc>https://www.wnews.org.au/firstpeoples</loc>
         <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -73,6 +76,15 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/kids</loc>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2020/03/wnews20200326-094.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2021/06/possum-329342.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -169,6 +181,9 @@
         </image:image>
     </url>
     <url>
+        <loc>https://www.wnews.org.au/articles/2022</loc>
+    </url>
+    <url>
         <loc>https://www.wnews.org.au/articles/2023</loc>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2023/04/wnews20230420-008.jpg</image:loc>
@@ -210,10 +225,13 @@
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022</loc>
         <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -226,6 +244,15 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-067.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/history/2022</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2022/04/Rushworth+P-12.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -247,6 +274,18 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/kids/2020</loc>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2020/03/wnews20200326-094.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/kids/2021</loc>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2021/06/possum-329342.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -460,16 +499,37 @@
         <loc>https://www.wnews.org.au/articles/2023/list/well-hello-there</loc>
     </url>
     <url>
+        <loc>https://www.wnews.org.au/firstpeoples/2022/list/kulin-nation-seasons</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/thomas-jeston-washbourne</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/what-s-in-a-name</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/women-and-social-change</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/history/2022/list/formal-education-at-rushworth-for-150-years</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/immigration/2023/list/early-arrival-and-success</loc>
@@ -477,5 +537,11 @@
             <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.wnews.org.au/kids/2020/list/kookaburra-facts-for-kids</loc>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/kids/2021/list/possums</loc>
+    </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-13T09:25:45.595Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-13T11:48:15.489Z -->
