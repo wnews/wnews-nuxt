@@ -1,5 +1,5 @@
 <template>
-    <main class="bg-white px-4 pt-16 pb-20 sm:px-6 lg:px-8 lg:pt-24 lg:pb-28">
+    <main class="bg-white px-4 pt-2 pb-20 sm:px-6 lg:px-8 lg:pt-6 lg:pb-28">
       <div class="mx-auto max-w-lg lg:max-w-7xl">
         <div class="border-b border-b-gray-200 pb-6">
           <h2
