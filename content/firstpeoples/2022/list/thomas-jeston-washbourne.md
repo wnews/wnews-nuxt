@@ -1,5 +1,5 @@
 ---
-image: https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png
+image: /gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png
 ---
 # Thomas Jeston Washbourne
 
