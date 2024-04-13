@@ -169,9 +169,72 @@
         </image:image>
     </url>
     <url>
+        <loc>https://www.wnews.org.au/articles/2023</loc>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2023/04/wnews20230420-008.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2023/05/wnews20230504-000.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2023/04/wnews20230420-000.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2023/04/wnews20230420-004.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2023/04/wnews20230420-009.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2023/07/wnews20230727-001.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2023/08/wnews20230810-000.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2024</loc>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-006.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-015.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022</loc>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/undefined</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/gardening/2024</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-070.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-067.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/history/2024</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-059.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
@@ -208,6 +271,30 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/recipes/2024</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-069.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-065.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/wildlife/2024</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-062.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-061.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -262,12 +349,6 @@
         <loc>https://www.wnews.org.au/history/2024/2024-04-11</loc>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://www.wnews.org.au/immigration/2023/early-arrival-and-success</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -358,6 +439,27 @@
         </image:image>
     </url>
     <url>
+        <loc>https://www.wnews.org.au/articles/2023/list/an-unsung-hero</loc>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2023/list/anzac-day-commemorations</loc>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2023/list/colbo-community-geared-up</loc>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2023/list/festival-fun-draws-crowd</loc>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2023/list/montevideo-maru-mural-launch</loc>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2023/list/swanning-around-in-the-canola</loc>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2023/list/well-hello-there</loc>
+    </url>
+    <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/thomas-jeston-washbourne</loc>
         <image:image>
             <image:loc>https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
@@ -369,5 +471,11 @@
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/women-and-social-change</loc>
     </url>
+    <url>
+        <loc>https://www.wnews.org.au/immigration/2023/list/early-arrival-and-success</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
+        </image:image>
+    </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-13T06:28:03.699Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-13T09:25:45.595Z -->
