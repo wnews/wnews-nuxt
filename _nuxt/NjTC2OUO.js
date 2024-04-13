@@ -1,0 +1,1 @@
+import t from"./BCyPtMxG.js";import{l as e,c as r,g as c,b as n}from"./BXZJOQ5M.js";import"./Ba_2uWNl.js";import"./RPQoAymD.js";import"./BsYmvPZw.js";import"./DGZWHOaP.js";import"./iYYnvnxm.js";import"./D9NY7rnW.js";import"./C-JSkOxy.js";const _={};function m(p,s){const o=t;return n(),r("main",null,[c(o,{class:"p-5 space-y-4"})])}const B=e(_,[["render",m]]);export{B as default};
