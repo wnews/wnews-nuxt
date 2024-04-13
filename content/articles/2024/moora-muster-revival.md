@@ -13,6 +13,8 @@ The crowd browsed the stalls and were treated to demonstrations of teams of hors
 
 One of the more unique features was a working team of five horses as seen in the photo (right), beautifully captured by Kylie L Van Den Brink.
 
+![Draught Horses](https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg)
+
 The food and coffee vans and green shed BBQ were kept busy with many of the visitors relaxing over lunch in the shade of the gum trees whilst enjoying the entertainment provided by Callum Gleeson.
 
 Many thanks to everyone who came along and enjoyed the day, and a special thanks to the volunteers who worked tirelessly to make the day the success that it was.
