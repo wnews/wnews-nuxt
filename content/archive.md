@@ -18,4 +18,6 @@
 
 ## 2020
 
+* [Articles](/articles/2020)
+* [Waranga Dreaming](/firstpeoples/2021)
 * [Kids Corner](/kids/2020)
