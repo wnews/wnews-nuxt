@@ -1,9 +1,9 @@
 <template>
-  <NuxtLink to="/recipes">
+  <div class="pl-8">
+    <NuxtLink to="/recipes">
     <NuxtImg src="/images/cooks-column-banner.png"/>
   </NuxtLink>
-  <main>
     <ContentDoc class="p-5 space-y-4"/>
-  </main>
   <NuxtImg src="/images/advertise-banner.png"/>
+  </div>
 </template>
