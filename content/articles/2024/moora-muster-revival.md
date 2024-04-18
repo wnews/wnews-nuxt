@@ -11,9 +11,9 @@ The day was a huge success with over 1,000 people taking advantage of the beauti
 
 The crowd browsed the stalls and were treated to demonstrations of teams of horses completing obstacle courses and working to traditional methods of farming that are rarely seen today.
 
-One of the more unique features was a working team of five horses as seen in the photo (right), beautifully captured by Kylie L Van Den Brink.
+![Draught Horses](https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg){style="float:right" .p-4}
 
-![Draught Horses](https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg)
+One of the more unique features was a working team of five horses as seen in the photo (right), beautifully captured by Kylie L Van Den Brink.
 
 The food and coffee vans and green shed BBQ were kept busy with many of the visitors relaxing over lunch in the shade of the gum trees whilst enjoying the entertainment provided by Callum Gleeson.
 

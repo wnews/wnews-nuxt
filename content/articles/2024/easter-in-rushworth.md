@@ -20,6 +20,6 @@ The popular Dog Show at 10am is back again so bring along your pooch to try for 
 
 To top it all off the traditional Parade will commence at 1 pm., with the wonderful Moora Horses in the lead, followed by the Wizard and an array of vintage steam machinery, trucks and cars.
 
-![The Wizard](https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg)
+![The Wizard](https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg){style="float:right" .p-4}
 
 Timetables and location maps will be visible in most shop windows. Please refer to the Public Notices for details of High Street road closure for the day.

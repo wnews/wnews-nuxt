@@ -9,7 +9,7 @@ Thirty dogs of all breeds and sizes were entered in the dog competition. And the
 
 In a very popular move the traditional wood auction was revived this year by Shearing for Kids with Cancer. This was very well supported and a great success. (See report on page 4.)
 
-![Easter Parade](https://media.wnews.org.au/gallery/2024/04/wnews20240411-006.jpg)
+![Easter Parade](https://media.wnews.org.au/gallery/2024/04/wnews20240411-006.jpg){style="float:right" .p-4}
 
 The Parade was once again a huge hit with a variety of entries of vintage cars, large truck rigs and vintage steam machinery and vehicles from yesteryear, all led by the fabulous teams of draught horses and riders who came in from Moora.
 
