@@ -22,7 +22,7 @@ Around 1970 Kevin, (the son of Art) and Amy Jones moved to the farm and started 
 
 Kevin, being a clever man, built a device for his tractor, which was used for the slashing and raking of the eucalyptus patches to rejuvenate the plants for better eucalyptus oil production. It also saved a lot of time.
 
-![Eucalyptus raking](https://media.wnews.org.au/gallery/2024/03/wnews20240328-015.jpg)
+![Eucalyptus raking](https://media.wnews.org.au/gallery/2024/03/wnews20240328-015.jpg){style="float:right" .p-4}
 
 Amy worked alongside her husband for hours each day helping in the long and enduring process of carting and making the oil.
 
