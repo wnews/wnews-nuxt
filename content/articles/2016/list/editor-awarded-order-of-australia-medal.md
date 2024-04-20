@@ -1,5 +1,5 @@
 ---
-image: /gallery/wnews20160616P01-188x188.jpeg
+image: /gallery/2016/06/wnews20160616P01-188x188.jpeg
 ---
 # Waranga News Editor awarded Order of Australia Medal
 
