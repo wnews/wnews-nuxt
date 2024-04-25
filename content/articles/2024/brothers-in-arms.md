@@ -6,6 +6,8 @@ image: /gallery/2024/04/wnews20240425-004.jpg
 Rushworth brothers Alan and Bruce Brown both served our country overseas in World War 11. Their military careers followed
 similar paths, in that both were first called up and served in the militia (Citizens Military Forces or CMF) before joining the AIF.
 
+![Alan and Bruce Brown](https://media.wnews.org.au/gallery/2024/04/wnews20240425-004.jpg){style="float:right" .p-4}
+
 The boys were born to long-established
 Rushworth families. Their father Christie
 Brown (Junior) and Elizabeth (nee Crothers)
