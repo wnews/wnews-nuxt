@@ -3,7 +3,10 @@
     <url>
         <loc>https://www.wnews.org.au/</loc>
         <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240411-01.jpg</image:loc>
+            <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240425-01.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-004.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg</image:loc>
@@ -13,6 +16,9 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-053.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-015.jpg</image:loc>
@@ -39,6 +45,9 @@
     <url>
         <loc>https://www.wnews.org.au/articles</loc>
         <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-004.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg</image:loc>
         </image:image>
         <image:image>
@@ -46,6 +55,9 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-053.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-015.jpg</image:loc>
@@ -138,6 +150,9 @@
             <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240411-01.jpg</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240425-01.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
     </url>
@@ -169,6 +184,9 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-061.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-058.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -288,6 +306,9 @@
     <url>
         <loc>https://www.wnews.org.au/articles/2024</loc>
         <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-004.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg</image:loc>
         </image:image>
         <image:image>
@@ -295,6 +316,9 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-053.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-015.jpg</image:loc>
@@ -429,6 +453,9 @@
             <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240411-01.jpg</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240425-01.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
     </url>
@@ -485,6 +512,15 @@
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-061.jpg</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-058.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2024/brothers-in-arms</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/easter-in-rushworth</loc>
@@ -509,6 +545,12 @@
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/articles/2024/rushworth-eucalyptus-oil</loc>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
         </image:image>
@@ -557,6 +599,15 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-04-11</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/history/2024/2024-04-25</loc>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
         </image:image>
@@ -620,6 +671,9 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-04-25</loc>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240425-01.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
         </image:image>
@@ -691,6 +745,15 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-061.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/wildlife/2024/2024-04-25</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
@@ -967,4 +1030,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-20T11:23:11.707Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-04-25T11:34:22.377Z -->
