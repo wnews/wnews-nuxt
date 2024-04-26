@@ -4,6 +4,7 @@
     <div class="flex flex-row gap-2">
       <SocialShare
       v-for="network in ['facebook', 'twitter', 'email']"
+      :url="`https://www.wnews.org.au${this.$route.path}`"
       :key="network"
       :network="network"
       :label="false"
