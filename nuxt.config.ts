@@ -1,7 +1,14 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content', "@nuxt/image", '@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@nuxtjs/sitemap'],
+  modules: ['@nuxt/content', "@nuxt/image", '@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@nuxtjs/sitemap', 'nuxt-disqus',
+    '@stefanobartoletti/nuxt-social-share'
+  ],
+  // content: {
+  //   experimental: {
+  //     search: true
+  //   }
+  // },
   image: {
     domains: ['media.wnews.org.au'],
     cloudflare: {
@@ -33,6 +40,12 @@ export default defineNuxtConfig({
     exclude: [
       '/advertisements',
     ],
+  },
+  disqus: {
+    shortname: "waranganews",
+  },
+  socialShare: {
+
   },
   nitro: {
     prerender: {
