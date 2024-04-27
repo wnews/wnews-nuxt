@@ -3,17 +3,7 @@
     <NuxtLink to="/gardening">
     <NuxtImg src="/images/garden-hints-banner.png"/>
   </NuxtLink>
-    <ContentDoc class="p-5 space-y-4"/>
-    <div class="flex flex-row gap-2">
-      <SocialShare
-      v-for="network in ['facebook', 'twitter', 'email']"
-      :url="`https://www.wnews.org.au${this.$route.path}`"
-      :key="network"
-      :network="network"
-      :label="false"
-      class="p-4 rounded-none"
-    />
-    </div>
+  <Article />
   <NuxtImg src="/images/advertise-banner.png"/>
   </div>
 </template>
