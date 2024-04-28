@@ -1,5 +1,5 @@
 ---
-image: /gallery/2022/06/Stone+axe+-+Charlie+Furphy+story.jpg"
+image: /gallery/2022/06/Stone+axe+-+Charlie+Furphy+story.jpg
 ---
 It seems that there were still Aboriginal people moving through the Waranga area just over a century ago.  Whether they were descendants of the traditional Ngurai-illum Wurrung custodians following old songlines is not clear.  Perhaps they were people just looking for itinerant work. 
 
