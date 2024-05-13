@@ -113,6 +113,9 @@
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-067.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-075.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history</loc>
@@ -194,6 +197,9 @@
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-065.jpg</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-073.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/subscribe</loc>
@@ -214,6 +220,9 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-058.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-065.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -434,6 +443,9 @@
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-067.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-075.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2022</loc>
@@ -530,6 +542,9 @@
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-065.jpg</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-073.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2017</loc>
@@ -592,6 +607,9 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-058.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-065.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -706,6 +724,24 @@
         </image:image>
     </url>
     <url>
+        <loc>https://www.wnews.org.au/gardening/2024/2024-05-09</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-074.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-075.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-076.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://www.wnews.org.au/history/2024/2024-03-28</loc>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
@@ -725,6 +761,15 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-04-25</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/history/2024/2024-05-09</loc>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
         </image:image>
@@ -859,6 +904,18 @@
         </image:image>
     </url>
     <url>
+        <loc>https://www.wnews.org.au/recipes/2024/2024-05-09</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-073.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://www.wnews.org.au/wildlife/2024/2024-03-28</loc>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
@@ -889,6 +946,24 @@
         </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-058.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.wnews.org.au/wildlife/2024/2024-05-09</loc>
+        <image:image>
+            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-065.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-066.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-067.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
@@ -1234,4 +1309,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-05-11T11:25:41.176Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-05-13T00:52:07.838Z -->
