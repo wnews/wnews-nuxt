@@ -49,7 +49,7 @@
 
 .wp-layout > nav {
   grid-area: nav;
-  margin-left: 0.5rem;
+  /* margin-left: 0.5rem; */
 }
 
 .wp-layout > main {

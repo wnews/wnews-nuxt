@@ -1,5 +1,6 @@
 <template>
-    <NuxtLink to="/advertise">
+    <aside>
+        <NuxtLink to="/advertise">
         <NuxtImg src="/images/advertise2.png" />      
     </NuxtLink>
     <NuxtImg src="/advertisements/Helen%20Truran%20-%20Celebrant[1].jpg" />      
@@ -12,4 +13,5 @@
     <NuxtLink to="/subscribe">
         <NuxtImg src="/images/subscribe-banner.png" />      
     </NuxtLink>
+    </aside>
 </template>

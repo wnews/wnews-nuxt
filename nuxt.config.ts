@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/content', "@nuxt/image", '@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@nuxtjs/sitemap', 'nuxt-disqus',
-    '@stefanobartoletti/nuxt-social-share'
+    '@stefanobartoletti/nuxt-social-share', 'nuxt-icon',
   ],
   // content: {
   //   experimental: {
