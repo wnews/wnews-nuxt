@@ -3,9 +3,6 @@
     <url>
         <loc>https://www.wnews.org.au/</loc>
         <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/05/wnews20240523-01.jpg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-004.jpg</image:loc>
         </image:image>
         <image:image>
@@ -32,21 +29,12 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/about</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertise</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/archive</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles</loc>
@@ -77,21 +65,12 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/contact</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/donations</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2020/06/wnews20200604-010.jpg</image:loc>
         </image:image>
@@ -108,9 +87,6 @@
     <url>
         <loc>https://www.wnews.org.au/gardening</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-070.jpg</image:loc>
         </image:image>
         <image:image>
@@ -126,9 +102,6 @@
     <url>
         <loc>https://www.wnews.org.au/history</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-059.png</image:loc>
         </image:image>
         <image:image>
@@ -137,9 +110,6 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/immigration</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
@@ -195,9 +165,6 @@
     <url>
         <loc>https://www.wnews.org.au/recipes</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-069.jpg</image:loc>
         </image:image>
         <image:image>
@@ -212,15 +179,9 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/subscribe</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-062.jpg</image:loc>
         </image:image>
@@ -236,66 +197,24 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertisements/helen-truran-celebrant</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/advertisements/Helen%2520Truran%2520-%2520Celebrant%5B1%5D.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertisements/ky-funeral-services</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/advertisements/Kyabram%2520Dist%2520Funeral%2520Services%5B1%5D.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertisements/lipshut-law</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/advertisements/Lipshut%2520Law%5B1%5D.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertisements/morgan-fuel</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/advertisements/Morgan%2520Fuel%2520Grain%5B1%5D.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertisements/perrys-butchery</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/advertisements/Perrys%2520Butchery%5B1%5D.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertisements/rexterminate</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/advertisements/Rexterminate%5B1%5D.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/advertisements/rushworth-variety</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/advertisements/Rushworth%2520Variety%5B1%5D.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2016</loc>
@@ -390,26 +309,17 @@
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2020</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2020/06/wnews20200604-010.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2021</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2022/06/Stone+axe+-+Charlie+Furphy+story.jpg</image:loc>
         </image:image>
@@ -423,26 +333,17 @@
     <url>
         <loc>https://www.wnews.org.au/gardening/2021</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2021/12/FruitFlyTrap.png</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2022</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2022/09/IMG_7113.jpeg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2024</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-070.jpg</image:loc>
         </image:image>
@@ -459,9 +360,6 @@
     <url>
         <loc>https://www.wnews.org.au/history/2022</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
         <image:image>
@@ -471,9 +369,6 @@
     <url>
         <loc>https://www.wnews.org.au/history/2024</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-059.png</image:loc>
         </image:image>
         <image:image>
@@ -482,9 +377,6 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/immigration/2023</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/undefined</image:loc>
         </image:image>
@@ -543,9 +435,6 @@
     <url>
         <loc>https://www.wnews.org.au/recipes/2024</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-069.jpg</image:loc>
         </image:image>
         <image:image>
@@ -561,17 +450,11 @@
     <url>
         <loc>https://www.wnews.org.au/wildlife/2017</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2017/08/wnews20170817-084.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2020</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2020/05/wnews20200521-026.jpg</image:loc>
         </image:image>
@@ -581,9 +464,6 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2021</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2021/11/6I6A1731.jpg</image:loc>
         </image:image>
@@ -600,17 +480,11 @@
     <url>
         <loc>https://www.wnews.org.au/wildlife/2022</loc>
         <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2022/08/Freetail_Bat.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2024</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-062.jpg</image:loc>
         </image:image>
@@ -626,699 +500,237 @@
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/brothers-in-arms</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-004.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/easter-in-rushworth</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-000.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/fun-of-the-fair</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-006.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/moora-muster-revival</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-008.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/rushworth-eucalyptus-oil</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/rushworth-liquid-gold</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-015.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/shearing-for-kids-with-cancer</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-020.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-019.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-021.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2024/wilbur-wild-performs</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-001.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2024/2024-03-28</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-070.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2024/2024-04-11</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-067.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2024/2024-04-25</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-067.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2024/2024-05-09</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-074.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-075.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-076.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-03-28</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-04-11</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-04-25</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2024/2024-05-09</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-02-01</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/02/wnews20240201-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-02-15</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/02/wnews20240215-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-02-29</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/02/WNEWS20240229a-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-03-14</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/03/wnews20240314-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-03-28</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/03/wnews20240328-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-04-11</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240411-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-04-25</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/04/wnews20240425-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-05-09</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-05-23</loc>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/past-issues/2024/05/wnews20240523-01.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-06-06</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/past-issues/2024/2024-06-20</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/recipes/2024/2024-03-28</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-069.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/recipes/2024/2024-04-11</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-065.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/recipes/2024/2024-04-25</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-065.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/recipes/2024/2024-05-09</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/cooks-column-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-073.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2024/2024-03-28</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/03/wnews20240328-062.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2024/2024-04-11</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240411-061.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2024/2024-04-25</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/04/wnews20240425-058.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2024/2024-05-09</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-065.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-066.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2024/05/wnews20240509-067.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2016/list/editor-awarded-order-of-australia-medal</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2018/list/new-owners-for-colbo-hotel</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2020/list/local-schools-celebrate-naidoc-week</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2020/list/not-just-a-butcher</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2020/list/wartime-crash-near-basin</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2021/list/iron-lady-joyce-celebrates-100-years</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2021/list/new-fuel-outlet-opens-in-rushworth</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2022/list/glitz-and-glam-for-rushworth-debs</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2023/list/an-unsung-hero</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2023/list/anzac-day-commemorations</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2023/list/colbo-community-geared-up</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2023/list/festival-fun-draws-crowd</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2023/list/montevideo-maru-mural-launch</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2023/list/swanning-around-in-the-canola</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/articles/2023/list/well-hello-there</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2020/list/2020-06-04-queen-mary</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2021/list/ngurai-illum-wurrung-country-place-names</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2021/list/speaking-ngurai-illum-wurrung</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/a-friendly-black-at-corop</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/kulin-nation-seasons</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/thomas-jeston-washbourne</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://s3-ap-southeast-2.amazonaws.com/wp-media-lib/wnews/gallery/2022/04/Jennie+and+Lizzie+Hylett+-+Washbourne.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/what-s-in-a-name</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/firstpeoples/2022/list/women-and-social-change</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/waranga-dreaming-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2021/list/jobs-jobs-and-jobs</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2021/12/FruitFlyTrap.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/gardening/2022/list/choose-native-plants-for-containers</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/garden-hints-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2022/list/crime-across-the-district-in-mid-1972</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2022/list/formal-education-at-rushworth-for-150-years</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2022/list/history-on-the-front-page-in-april-1972</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2022/list/hotel-drama-in-march-1972</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/history/2022/list/shocking-coincidence-to-start-1972</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/fifty-years-ago-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/immigration/2023/list/early-arrival-and-success</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/celestial-connections-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/kids/2020/list/kookaburra-facts-for-kids</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/kids/2021/list/budgerigars</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/kids/2021/list/possums</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/kids/2021/list/the-bandicoot</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/advertise-banner.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2017/list/plovers-in-the-drainpipe</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2020/list/collared-sparrowhawk</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2020/list/eagles-come-to-care</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2021/list/brown-falcon-chick</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://media.wnews.org.au/gallery/2021/11/6I6A1731.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2021/list/nankeen-kestrel</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2021/list/plumed-whistling-duck</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2021/list/shearwater-otherwise-known-as-a-mutton-bird</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://www.wnews.org.au/wildlife/2022/list/sharing-spaces-with-microbats</loc>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-banner.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.wnews.org.au/_ipx/_/images/all-about-wildlife-footer.png</image:loc>
-        </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-05-23T15:14:46.911Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.4 at 2024-05-24T11:33:13.475Z -->
