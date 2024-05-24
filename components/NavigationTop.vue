@@ -1,57 +1,47 @@
 <template>
     <nav id="navigation"
-    class="bg-white sticky top-0 z-40 font-body shadow-card hover:shadow-cardhover transition-all duration-500 md:text-xl text-blue-400">
+    class="bg-black sticky top-0 z-40 font-body shadow-card hover:shadow-cardhover transition-all duration-500 md:text-xl text-neutral-400">
 <!-- Container to give Navbar a fixed width -->
-    <div class="flex mx-auto items-center justify-center flex-wrap p-4 max-w-7xl">
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/">
+    <div class="flex gap-4 mx-auto items-center justify-between flex-wrap px-4 max-w-7xl">
+         <NuxtLink class="inline-block hover:bg-gray-200 p-2" to="/">
             Home
         </NuxtLink>
-      </span>
 
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/wildlife">
+         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/wildlife">
             All About Wildlife
         </NuxtLink>
-      </span>
 
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/history">
+         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/history">
             50 Years Ago
         </NuxtLink>
-      </span>
 
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/recipes">
+         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/recipes">
             Cooks Column
         </NuxtLink>
-      </span>
 
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/gardening">
+         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/gardening">
             Garden Hints & Tips
         </NuxtLink>
-      </span>
 
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/past-issues">
+         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/past-issues">
             Past Issues
         </NuxtLink>
-      </span>
 
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/archive">
+         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/archive">
             Archive
         </NuxtLink>
-      </span>
 
-      <span class="flex flex-row mt-6 md:mt-0 mr-6">
-         <NuxtLink class="inline-block border border-white rounded hover:border-gray-200 hover:bg-gray-200" to="/about">
+         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/about">
             About Us
         </NuxtLink>
-      </span>
+
+      <div class="flex gap-3">
+        <NuxtLink href="https://www.facebook.com/WarangaNews" title="Facebook" target="_blank"><Icon name="logos:facebook" class="size-7"/></NuxtLink>
+        <NuxtLink href="https://www.linkedin.com/company/waranga-news-inc." title="LinkedIn" target="_blank"><Icon name="logos:linkedin-icon" class="size-7 bg-white rounded"/></NuxtLink>
+        <NuxtLink href="https://www.instagram.com/waranganews/" title="Instagram" target="_blank"><Icon name="logos:instagram-icon" class="size-7 bg-white rounded-full"/></NuxtLink>
+      </div>
     </div>
-    <Weather></Weather>
+    <!-- <Weather></Weather> -->
 </nav>
 </template>
 
