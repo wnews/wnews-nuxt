@@ -22,6 +22,14 @@
         Contact Us
     </NuxtLink>
 </span>
+
+
+<div class="flex gap-3">
+        <NuxtLink href="https://www.facebook.com/WarangaNews" title="Facebook" target="_blank"><Icon name="logos:facebook" class="size-7"/></NuxtLink>
+        <NuxtLink href="https://www.linkedin.com/company/waranga-news-inc." title="LinkedIn" target="_blank"><Icon name="logos:linkedin-icon" class="size-7 bg-white rounded"/></NuxtLink>
+        <NuxtLink href="https://www.instagram.com/waranganews/" title="Instagram" target="_blank"><Icon name="logos:instagram-icon" class="size-7 bg-white rounded-full"/></NuxtLink>
+      </div>
+
     </div>
 
 <p class="text-gray-300 text-lg" style="text-align: center;">Copyright &copy; 2024 Waranga News, Inc.</p>
