@@ -65,7 +65,7 @@
         @apply font-roboto;
     }
 
-    main {
+    article {
         @apply text-xl;
         @apply font-crimson-pro;
         @apply md:p-5 p-2;

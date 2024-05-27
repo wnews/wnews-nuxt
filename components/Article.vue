@@ -5,7 +5,7 @@
             <div class="flex flex-col">
                 <article>
                 <!-- <h1>{{ doc.title }}</h1> -->
-                <ContentRenderer :value="doc" class="space-y-4 pt-8 pl-4 pr-3 max-w-5xl"/>
+                <ContentRenderer :value="doc" class="space-y-4 pt-8 pl-4 pr-3 max-w-4xl"/>
                 </article>
                 <div class="flex flex-row gap-2">
                     <SocialShare
