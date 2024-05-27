@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-black">
+    <footer class="bg-black bg-gradient-to-b from-slate-800">
         <div class="flex mx-auto items-center justify-center flex-wrap p-4 max-w-7xl">
 
 <span class="flex flex-row mt-6 md:mt-0 mr-6">
