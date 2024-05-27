@@ -10,4 +10,46 @@ stories, events, and people that make our region truly special. Your support hel
 For donations over $30 you will receive a year’s subscription to our online edition.
 Thank you for your support in keeping quality local news alive.
 
-:PressPatronButton
+## Single Donation
+
+::DonationLink{frequency="one-time" amount="10"}
+$10
+::
+
+::DonationLink{frequency="one-time" amount="20"}
+$20
+::
+
+::DonationLink{frequency="one-time" amount="50"}
+$50
+::
+
+## Monthly Donation
+
+::DonationLink{frequency="monthly" amount="5"}
+$5
+::
+
+::DonationLink{frequency="monthly" amount="10"}
+$10
+::
+
+::DonationLink{frequency="monthly" amount="15"}
+$15
+::
+
+## Annual Donation
+
+::DonationLink{frequency="annual" amount="30"}
+$30
+::
+
+::DonationLink{frequency="annual" amount="50"}
+$50
+::
+
+::DonationLink{frequency="annual" amount="100"}
+$100
+::
+
+<!-- :PressPatronButton -->
