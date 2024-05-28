@@ -10,7 +10,7 @@
         </div>
         <div class="flex flex-wrap items-center gap-x-3 px-4">
             <NuxtLink href="/subscribe">Subscribe</NuxtLink>
-            <NuxtLink href="/donations" class="bg-black text-white rounded-full px-4 py-2">Become a supporter</NuxtLink>
+            <NuxtLink href="https://wnews.presspatron.com" target="_blank" class="bg-black text-white rounded-full px-4 py-2">Become a supporter</NuxtLink>
         </div>
     </header>
 </template>
