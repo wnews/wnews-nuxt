@@ -6,7 +6,7 @@
             </ClientOnly>
         </div>
         <div>
-            <NuxtImg sizes="100vw md:1024px" class="max-w-xl" src="/images/wnews-masthead2.png" alt="Waranga News masthead image"/>
+            <NuxtImg sizes="100vw md:1024px" class="max-w-lg" src="/images/wnews-masthead2.png" alt="Waranga News masthead image"/>
         </div>
         <div class="flex flex-wrap items-center gap-x-3 px-4">
             <NuxtLink href="/subscribe">Subscribe</NuxtLink>
