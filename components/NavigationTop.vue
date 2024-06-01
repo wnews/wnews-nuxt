@@ -3,32 +3,32 @@
     class="bg-black sticky top-0 z-40 font-body shadow-card hover:shadow-cardhover transition-all duration-500 md:text-lg text-neutral-400">
 <!-- Container to give Navbar a fixed width -->
     <div class="flex md:gap-2 mx-auto items-center justify-between flex-wrap px-4 max-w-7xl">
-         <NuxtLink class="inline-block hover:bg-gray-200 p-2" to="/">
+         <NuxtLink class="inline-block hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px] p-2" to="/">
             Home
         </NuxtLink>
 
-         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/wildlife">
+         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/wildlife">
             All About Wildlife
         </NuxtLink>
 
-         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/history">
+         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/history">
             50 Years Ago
         </NuxtLink>
 
-         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/recipes">
+         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/recipes">
             Cooks Column
         </NuxtLink>
 
-         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/gardening">
+         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/gardening">
             Garden Hints & Tips
         </NuxtLink>
 
-         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/past-issues">
+         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/past-issues">
             Past Issues
         </NuxtLink>
 
 
-         <NuxtLink class="inline-block p-2 hover:bg-gray-200" to="/about">
+         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/about">
             About Us
         </NuxtLink>
 
@@ -36,7 +36,7 @@
           <!-- Trigger -->
           <div @mouseenter="isDropdownOpen = true">
             <button
-              class="inline-flex items-center p-2 hover:bg-gray-200 focus:outline-none">
+              class="inline-flex items-center p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px] focus:outline-none">
               More
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
                 class="w-5 h-5 mr-2">
