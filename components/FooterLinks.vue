@@ -32,15 +32,15 @@
 
     </div>
 
+    <p class="text-gray-300 text-lg" style="text-align: center;">Copyright &copy; 2024 Waranga News, Inc.</p>
 <div class="flex flex-row gap-3 w-full justify-center">
-    <p class="text-white">Proud member of</p>
+    <p class="text-gray-300 text-sm">Proud member of</p>
     <NuxtLink href="https://www.cnav.org.au" title="CNAV" target="_blank">
-    <NuxtImg src="/images/cnav.webp" class="h-8"></NuxtImg>
+    <NuxtImg src="/images/cnav.webp" class="h-6"></NuxtImg>
 </NuxtLink>
 <NuxtLink href="https://www.lina.org.au" title="LINA" target="_blank">
-    <NuxtImg src="/images/lina.webp" class="h-8"></NuxtImg>
+    <NuxtImg src="/images/lina.webp" class="h-6"></NuxtImg>
 </NuxtLink>
 </div>
-<p class="text-gray-300 text-lg" style="text-align: center;">Copyright &copy; 2024 Waranga News, Inc.</p>
 </footer>
 </template>
