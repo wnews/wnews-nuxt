@@ -46,15 +46,15 @@
           </div>
           <!-- Dropdown -->
           <div v-show="isDropdownOpen"
-            class="absolute z-10 w-56 mt-0 bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5"
+            class="absolute z-10 w-56 mt-0 bg-black rounded-md shadow-lg ring-1 ring-emerald-800"
             @mouseleave="onMouseLeave">
-            <NuxtLink class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" to="/firstpeoples">
+            <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/firstpeoples">
                 Waranga Dreaming
             </NuxtLink>
-            <NuxtLink class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" to="/immigration">
+            <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/immigration">
                 Celestial Connections
             </NuxtLink>
-            <NuxtLink class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" to="/archive">
+            <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/archive">
                 Archive
             </NuxtLink>
           </div>
