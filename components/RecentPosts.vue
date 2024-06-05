@@ -10,17 +10,30 @@
         </div>
         <div class="mt-12 grid gap-16 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
           <ContentList :path="`${basePath}`" v-slot="{ list }">
-            <div
+            <Card
+                v-for="article in list"
+                :key="article._path"
+                :article="article"
+            >
+          </Card>
+
+            <!-- <div
                 v-for="article in list"
                 :key="article._path"
                 class="flex flex-col justify-between rounded-lg border border-gray-200 p-4"
             >
               <nuxt-link :href="article._path">
-                <p class="text-xl text-gray-900">{{ article.title }}</p>
-                <p class="mt-3 text-gray-500">
-                  <NuxtImg class="float-left pr-2" provider="cloudflare" :src="`${article.image}`"></NuxtImg>
-                  {{ article.description }}
-                </p>
+                <div class="flex flex-row h-32">
+                  <div class="">
+                    <NuxtImg class="" provider="cloudflare" :src="`${article.image}`"></NuxtImg>
+                  </div>
+                  <div>
+                    <h1 class="text-xl text-gray-900">{{ article.title }}</h1>
+                    <p class="mt-3 text-gray-500">
+                      {{ article.description }}
+                    </p>
+                  </div>
+                </div>
               </nuxt-link>
               <div class="mt-6">
                 <a
@@ -33,7 +46,7 @@
                   <time datetime="2020-03-16">{{ article.date }}</time>
                 </div>
               </div>
-            </div>
+            </div> -->
           </ContentList>
         </div>
       </div>
