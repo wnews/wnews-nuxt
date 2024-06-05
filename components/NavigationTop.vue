@@ -54,6 +54,9 @@
             <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/immigration">
                 Celestial Connections
             </NuxtLink>
+            <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/kids">
+                Kids Corner
+            </NuxtLink>
             <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/archive">
                 Archive
             </NuxtLink>
