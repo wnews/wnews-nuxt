@@ -3,22 +3,22 @@
         <div class="flex mx-auto items-center justify-center flex-wrap p-4 max-w-7xl">
 
 <span class="flex flex-row mt-6 md:mt-0 mr-6">
-    <NuxtLink class="inline-block text-neutral-500 hover:bg-gray-200 py-1 px-3" to="/advertise">
+    <NuxtLink class="inline-block text-lg text-neutral-500 hover:underline py-1 px-3" to="/advertise">
         Advertise
     </NuxtLink>
 </span>
 <span class="flex flex-row mt-6 md:mt-0 mr-6">
-    <NuxtLink class="inline-block text-neutral-500 hover:bg-gray-200 py-1 px-3" to="/subscribe">
+    <NuxtLink class="inline-block text-lg text-neutral-500 hover:underline py-1 px-3" to="/subscribe">
         Subscribe
     </NuxtLink>
 </span>
 <span class="flex flex-row mt-6 md:mt-0 mr-6">
-    <NuxtLink class="inline-block text-neutral-500 hover:bg-gray-200 py-1 px-3" to="/donations">
+    <NuxtLink class="inline-block text-lg text-neutral-500 hover:underline py-1 px-3" to="/donations">
         Donate
     </NuxtLink>
 </span>
 <span class="flex flex-row mt-6 md:mt-0 mr-6">
-    <NuxtLink class="inline-block text-neutral-500 hover:bg-gray-200 py-1 px-3" to="/contact">
+    <NuxtLink class="inline-block text-lg text-neutral-500 hover:underline py-1 px-3" to="/contact">
         Contact Us
     </NuxtLink>
 </span>
@@ -32,8 +32,8 @@
 
     </div>
 
-    <p class="text-gray-300 text-lg" style="text-align: center;">Copyright &copy; 2024 Waranga News, Inc.</p>
-<div class="flex flex-row gap-3 w-full justify-center">
+    <p class="text-gray-300 text-md" style="text-align: center;">Copyright &copy; 2024 Waranga News, Inc.</p>
+<div class="flex flex-row gap-3 w-full justify-center p-2">
     <p class="text-gray-300 text-sm">Proud member of</p>
     <NuxtLink href="https://www.cnav.org.au" title="CNAV" target="_blank">
     <NuxtImg src="/images/cnav.webp" class="h-6"></NuxtImg>
