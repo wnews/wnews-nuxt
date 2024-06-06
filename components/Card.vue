@@ -7,7 +7,7 @@
         <!-- <NuxtImg class="max-h-48 h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden" provider="cloudflare" :src="`${article.image}`"></NuxtImg> -->
         <!-- <div class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal"> -->
             <div class="flex flex-col justify-end">
-                <div class="text-neutral-200 font-bold text-base mb-2 p-2 text-4xl font-light text-end">{{ article.title }}</div>
+                <div class="text-neutral-200 mb-2 p-2 text-3xl font-light text-end">{{ article.title }}</div>
                 <!-- <p class="text-gray-700 text-base">{{ article.description }}</p> -->
             </div>
         <!-- </div> -->
