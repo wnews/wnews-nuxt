@@ -11,8 +11,8 @@
             All About Wildlife
         </NuxtLink>
 
-         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/history">
-            50 Years Ago
+         <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/immigration">
+          Celestial Connections
         </NuxtLink>
 
          <NuxtLink class="inline-block p-2 hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/recipes">
@@ -51,8 +51,8 @@
             <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/firstpeoples">
                 Waranga Dreaming
             </NuxtLink>
-            <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/immigration">
-                Celestial Connections
+            <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/history">
+                50 Years Ago
             </NuxtLink>
             <NuxtLink class="block px-4 py-2 text-sm hover:underline decoration-emerald-800 decoration-8 underline-offset-[6px]" to="/kids">
                 Kids Corner
