@@ -70,4 +70,14 @@
         @apply font-crimson-pro;
         @apply md:p-5 p-2;
     }
+
+    article ul {
+        @apply list-disc;
+        @apply list-inside;
+    }
+    
+    ol {
+        @apply list-decimal;
+        @apply list-inside;
+    }
 }
