@@ -2,13 +2,14 @@
 title: Shearing for Kids with Cancer funds contribute to valuable research
 image: /gallery/2024/05/wnews20240509-020.jpg
 ---
+
 # {{ $doc.title }}
 
 It takes a rare kind of commitment to conquer children’s cancers, and that is exactly what’s been made by My Room Children’s Cancer
 Charity, with the establishment of an Australian first for childhood cancer research. And our own Rushworth ‘Shearing for Kids’ team
 has contributed to the charity’s ability to make such a commitment.
 
-![Welcome donations for the Easter Saturday wood auction](https://media.wnews.org.au/gallery/2024/05/wnews20240509-020.jpg){style="float:right" .p-4}
+![Welcome donations for the Easter Saturday wood auction](https://media.wnews.org.au/gallery/2024/05/wnews20240509-020.jpg){.p-4 style="float:right"}
 
 Thanks to an
 extraordinary funding
@@ -63,7 +64,7 @@ you’re stuck in a hospital
 room that doesn’t feel like
 home.”
 
-![Welcome donations for the Easter Saturday wood auction](https://media.wnews.org.au/gallery/2024/05/wnews20240509-019.jpg){style="float:left" .p-4}
+![Welcome donations for the Easter Saturday wood auction](https://media.wnews.org.au/gallery/2024/05/wnews20240509-019.jpg){.p-4 style="float:left"}
 
 Three families in this
 situation decided to make a
@@ -102,6 +103,8 @@ passion, commitment, and
 mission to beat childhood
 cancer remain unchanged.”
 
+![A dynamic Shearing for Kids trio](https://media.wnews.org.au/gallery/2024/05/wnews20240509-021.jpg){.p-4 style="float:right"}
+
 The charity supports a
 wide range of causes, ranging
 from their Samaritan Fund to
@@ -118,8 +121,6 @@ status (DGR1) and is also
 registered with the Australian
 Charities and Not-for-profits
 Commission.
-
-![A dynamic Shearing for Kids trio](https://media.wnews.org.au/gallery/2024/05/wnews20240509-021.jpg){style="float:right" .p-4}
 
 ## About Hudson Institute of Medical Research
 
@@ -141,7 +142,7 @@ five areas of medical need
 
 - Inflammation
 - Reproductive health and
-pregnancy
+  pregnancy
 - Infant and child health
 - Cancer
 - Hormones and health
